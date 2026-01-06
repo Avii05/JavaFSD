@@ -1,0 +1,14 @@
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/repository/SongRepository.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/repository/UserRepository.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/model/Playlist.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/controller/PlaylistController.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/repository/PlaylistRepository.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/controller/SongController.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/model/User.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/service/UserService.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/SmartMusicPlaylistApplication.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/service/PlaylistService.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/controller/UserController.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/service/SongService.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplaylist/model/Song.java
+/home/labuser/Downloads/smart-music-playlist/src/main/java/com/example/smartmusicplayer/configuration/SwaggerConfig.java
