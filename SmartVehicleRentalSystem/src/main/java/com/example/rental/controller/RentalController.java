@@ -23,7 +23,7 @@ public class RentalController {
 		return rentalService.returnVehicle(id);
 	}
 	
-	@GetMapping("/{id")
+	@GetMapping("/{id}")
 	public Rental getRental(@PathVariable Long id) {
 		return rentalService.getRental(id);
 		}
